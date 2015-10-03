@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A8096A01BC0393400A74766 /* TLTransitionLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 869DA0571806581F00EC81C4 /* TLTransitionLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A8096A11BC0393F00A74766 /* UICollectionView+TLTransitioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 869DA0591806581F00EC81C4 /* UICollectionView+TLTransitioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86B471DD1B418AEF00BFDF01 /* TLLayoutTransitioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 86B471DC1B418AEF00BFDF01 /* TLLayoutTransitioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -99,6 +101,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				86B471DD1B418AEF00BFDF01 /* TLLayoutTransitioning.h in Headers */,
+				4A8096A01BC0393400A74766 /* TLTransitionLayout.h in Headers */,
+				4A8096A11BC0393F00A74766 /* UICollectionView+TLTransitioning.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,6 +329,7 @@
 				86B471ED1B418AEF00BFDF01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
